@@ -1,5 +1,7 @@
 # Simplified SEAM, AMLaP 2023 version
 
+**Authors:** Garrett Smith, Maximilian Rabe, Shravan Vasishth, & Ralf Engbert
+
 This is an implementation of Simplified SEAM in Julia that combines the [Simplified SWIFT
 model](https://psyarxiv.com/dsvmt/) of eye-movement control with a simple dependency parser.
 The model is implemented in Julia (tested with version 1.9) using Pluto notebooks. The
